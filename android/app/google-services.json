@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "579836751307",
-    "project_id": "palp-deployment-practice",
-    "storage_bucket": "palp-deployment-practice.firebasestorage.app"
+    "project_number": "607824099473",
+    "project_id": "palpnote",
+    "storage_bucket": "palpnote.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:579836751307:android:805f16d0573ede1f7b1a4e",
+        "mobilesdk_app_id": "1:607824099473:android:40115bf7db3b57daea6730",
         "android_client_info": {
-          "package_name": "com.palp.deploy"
+          "package_name": "com.example.uts_palp_22100035"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC_aakpsCW0KTnsNM41Qoo1Cf3-og3lKZQ"
+          "current_key": "AIzaSyA8aSXgLkH_PVoF0-lzrzzxDlA8BIVlIuM"
         }
       ],
       "services": {
